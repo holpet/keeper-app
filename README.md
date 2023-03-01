@@ -13,4 +13,4 @@ A React app that lets users create notes and pin them on the page.
 
 ### Visual:
 
-![demo](/public/img/pathfinder.png)
+![demo](/public/img/demo.jpg)
